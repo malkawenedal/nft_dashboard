@@ -1,7 +1,7 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0x9498274b8c82b4a3127d67839f2127f2ae9753f4",
+    "collection_address": "0x2953399124F0cBB46d2CbACD8A89cF0599974963",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
     "block_chain_id": "137",
@@ -13,7 +13,7 @@ export const CONFIG = {
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "banner_picture": "https://www.superflexfitness.com/wp-content/uploads/2017/03/3D-banner-background.jpg",
+    "banner_picture": "https://lh3.googleusercontent.com/Dl770G_c8njDi3YAgc2D0Sy706mzvyJ-I9e0-fMche-cL3oMC1iq26-NqcJz35AuPq_s5o31PlKr8f6D_WnxhXUQo87Q3JOI2D0vrA=w600",
   },
 
   // Supported networks - just for your reference
